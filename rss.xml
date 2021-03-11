@@ -4,7 +4,23 @@
 <title><![CDATA[My Static Org Blog]]></title>
 <description><![CDATA[My Static Org Blog]]></description>
 <link>https://donsale.github.io/</link>
-<lastBuildDate>Thu, 11 Mar 2021 12:49:29 +0100</lastBuildDate>
+<lastBuildDate>Thu, 11 Mar 2021 12:55:29 +0100</lastBuildDate>
+<item>
+  <title><![CDATA[Test]]></title>
+  <description><![CDATA[
+
+<div id="outline-container-org32fbb80" class="outline-2">
+<h2 id="org32fbb80">Još jedan test</h2>
+<div class="outline-text-2" id="text-org32fbb80">
+</div>
+<div id="outline-container-orgf196487" class="outline-3">
+<h3 id="orgf196487">Test sadržaj</h3>
+</div>
+</div>
+<div class="taglist"></div>]]></description>
+  <link>https://donsale.github.io/2021-03-11-test.html</link>
+  <pubDate>Thu, 11 Mar 2021 12:52:00 +0100</pubDate>
+</item>
 <item>
   <title><![CDATA[Test post]]></title>
   <description><![CDATA[
