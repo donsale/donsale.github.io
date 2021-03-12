@@ -29,7 +29,7 @@ h1 {
 
 .header-bar a {
     display: inline-block;
-    width: 33%;
+    width: 32%;
 }
 
 .header-bar a:nth-child(2) {
