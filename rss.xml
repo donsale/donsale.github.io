@@ -4,17 +4,17 @@
 <title><![CDATA[My Static Org Blog]]></title>
 <description><![CDATA[My Static Org Blog]]></description>
 <link>https://donsale.github.io/</link>
-<lastBuildDate>Thu, 11 Mar 2021 12:55:29 +0100</lastBuildDate>
+<lastBuildDate>Fri, 12 Mar 2021 23:33:18 +0100</lastBuildDate>
 <item>
   <title><![CDATA[Test]]></title>
   <description><![CDATA[
 
-<div id="outline-container-org32fbb80" class="outline-2">
-<h2 id="org32fbb80">Još jedan test</h2>
-<div class="outline-text-2" id="text-org32fbb80">
+<div id="outline-container-org9293edb" class="outline-2">
+<h2 id="org9293edb">Još jedan test</h2>
+<div class="outline-text-2" id="text-org9293edb">
 </div>
-<div id="outline-container-orgf196487" class="outline-3">
-<h3 id="orgf196487">Test sadržaj</h3>
+<div id="outline-container-org2fc6f7e" class="outline-3">
+<h3 id="org2fc6f7e">Test sadržaj</h3>
 </div>
 </div>
 <div class="taglist"></div>]]></description>
@@ -24,21 +24,9 @@
 <item>
   <title><![CDATA[Test post]]></title>
   <description><![CDATA[
-
-<div id="outline-container-org929a294" class="outline-2">
-<h2 id="org929a294">Post title</h2>
-<div class="outline-text-2" id="text-org929a294">
-</div>
-<div id="outline-container-orga36851a" class="outline-3">
-<h3 id="orga36851a">Heading 2</h3>
-<div class="outline-text-3" id="text-orga36851a">
 <p>
-Test post
-###
+Text et cetera
 </p>
-</div>
-</div>
-</div>
 <div class="taglist"><a href="https://donsale.github.io/tags.html">Tags</a>: <a href="https://donsale.github.io/tag-test.html">test</a> </div>]]></description>
   <category><![CDATA[test]]></category>
   <link>https://donsale.github.io/2021-03-10-test-post.html</link>

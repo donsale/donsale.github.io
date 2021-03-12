@@ -1,12 +1,12 @@
 h1 {
-    text-align: center;
-    margin-bototm: .2em;
+    #text-align: center;
+    margin-bottom: .2em;
 }
 
 #content {
     background: #fff;
     padding-top: 3em;
-    max-width: 800px;
+    max-width: 600px;
     position: relative;
     margin: 5px auto;
     padding-left: 10px;
