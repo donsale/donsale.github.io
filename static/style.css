@@ -6,7 +6,7 @@ h1 {
 #content {
     background: #fff;
     padding-top: 3em;
-    max-width: 600px;
+    max-width: 700px;
     position: relative;
     margin: 5px auto;
     padding-left: 10px;
@@ -16,6 +16,28 @@ h1 {
     float: right;
     margin-left: 1em;
     margin-bottom: 1em
+}
+#preamble {
+    max-width: 700px;
+    #position: relative;
+    margin: 5px auto;
+}
+
+.header-bar {
+    width: 100%;
+}
+
+.header-bar a {
+    display: inline-block;
+    width: 33%;
+}
+
+.header-bar a:nth-child(2) {
+    text-align: center;
+}
+
+.header-bar a:nth-child(3) {
+    text-align:right;
 }
 
 .header{
