@@ -5,7 +5,7 @@ h1 {
 
 #content {
     background: #fff;
-    padding-top: 3em;
+    #padding-top: 3em;
     max-width: 700px;
     position: relative;
     margin: 5px auto;
@@ -18,9 +18,9 @@ h1 {
     margin-bottom: 1em
 }
 #preamble {
-    max-width: 700px;
+    max-width: 600px;
     #position: relative;
-    margin: 5px auto;
+    margin: 85px auto;
 }
 
 .header-bar {
@@ -44,6 +44,11 @@ h1 {
     clear:both;
 }
 
+.post-date-and-title {
+    position: relative;
+    min-height: 2em;
+}
+
 .post-title {
     display: inline-block;
     float: left;
@@ -57,9 +62,11 @@ a:hover, a:visited, a:link, a:active
 }
 
 .post-date {
-    display: inline-block;
-    float: right;
-    padding-top: 1em;
+    #display: inline-block;
+    #float: right;
+    position: absolute;
+    bottom: 0;
+    right: 0;
 }
 
 .header{
