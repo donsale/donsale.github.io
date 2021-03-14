@@ -44,6 +44,24 @@ h1 {
     clear:both;
 }
 
+.post-title {
+    display: inline-block;
+    float: left;
+    margin: 0;
+    text-decoration: none;
+}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+
+.post-date {
+    display: inline-block;
+    float: right;
+    padding-top: 1em;
+}
+
 .header{
     font-size: 24px;
     line-height: 40px;
