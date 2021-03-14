@@ -23,6 +23,10 @@ h1 {
     margin: 85px auto;
 }
 
+p {
+    padding: 0px 35px;
+}
+
 .header-bar {
     width: 100%;
 }
