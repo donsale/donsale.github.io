@@ -4,17 +4,18 @@
 <title><![CDATA[My Static Org Blog]]></title>
 <description><![CDATA[My Static Org Blog]]></description>
 <link>https://donsale.github.io/</link>
-<lastBuildDate>Fri, 12 Mar 2021 23:33:18 +0100</lastBuildDate>
+<lastBuildDate>Sun, 14 Mar 2021 01:16:20 +0100</lastBuildDate>
 <item>
   <title><![CDATA[Test]]></title>
   <description><![CDATA[
-
-<div id="outline-container-org9293edb" class="outline-2">
-<h2 id="org9293edb">Još jedan test</h2>
-<div class="outline-text-2" id="text-org9293edb">
 </div>
-<div id="outline-container-org2fc6f7e" class="outline-3">
-<h3 id="org2fc6f7e">Test sadržaj</h3>
+<div class="clearfix"></div>
+<div id="outline-container-orgb6f8348" class="outline-2">
+<h2 id="orgb6f8348">Još jedan test</h2>
+<div class="outline-text-2" id="text-orgb6f8348">
+</div>
+<div id="outline-container-org687e9ee" class="outline-3">
+<h3 id="org687e9ee">Test sadržaj</h3>
 </div>
 </div>
 <div class="taglist"></div>]]></description>
@@ -24,7 +25,8 @@
 <item>
   <title><![CDATA[Test post]]></title>
   <description><![CDATA[
-<p>
+</div>
+<div class="clearfix"></div><p>
 Text et cetera
 </p>
 <div class="taglist"><a href="https://donsale.github.io/tags.html">Tags</a>: <a href="https://donsale.github.io/tag-test.html">test</a> </div>]]></description>
