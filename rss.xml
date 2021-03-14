@@ -4,20 +4,14 @@
 <title><![CDATA[My Static Org Blog]]></title>
 <description><![CDATA[My Static Org Blog]]></description>
 <link>https://donsale.github.io/</link>
-<lastBuildDate>Sun, 14 Mar 2021 01:16:20 +0100</lastBuildDate>
+<lastBuildDate>Sun, 14 Mar 2021 17:05:17 +0100</lastBuildDate>
 <item>
   <title><![CDATA[Test]]></title>
   <description><![CDATA[
 </div>
-<div class="clearfix"></div>
-<div id="outline-container-orgb6f8348" class="outline-2">
-<h2 id="orgb6f8348">Još jedan test</h2>
-<div class="outline-text-2" id="text-orgb6f8348">
-</div>
-<div id="outline-container-org687e9ee" class="outline-3">
-<h3 id="org687e9ee">Test sadržaj</h3>
-</div>
-</div>
+<p>
+Test sadržaj
+</p>
 <div class="taglist"></div>]]></description>
   <link>https://donsale.github.io/2021-03-11-test.html</link>
   <pubDate>Thu, 11 Mar 2021 12:52:00 +0100</pubDate>
@@ -26,11 +20,10 @@
   <title><![CDATA[Test post]]></title>
   <description><![CDATA[
 </div>
-<div class="clearfix"></div><p>
+<p>
 Text et cetera
 </p>
-<div class="taglist"><a href="https://donsale.github.io/tags.html">Tags</a>: <a href="https://donsale.github.io/tag-test.html">test</a> </div>]]></description>
-  <category><![CDATA[test]]></category>
+<div class="taglist"></div>]]></description>
   <link>https://donsale.github.io/2021-03-10-test-post.html</link>
   <pubDate>Wed, 10 Mar 2021 16:24:00 +0100</pubDate>
 </item>
