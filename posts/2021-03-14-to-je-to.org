@@ -1,5 +1,0 @@
-#+title: To je to
-#+date: <2021-03-14 19:50>
-#+filetags: 
-
-To je to

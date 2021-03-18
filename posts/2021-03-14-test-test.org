@@ -1,5 +1,0 @@
-#+title: Test test
-#+date: <2021-03-14 19:36>
-#+filetags: 
-
-Još jedan test

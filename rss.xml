@@ -4,50 +4,16 @@
 <title><![CDATA[My Static Org Blog]]></title>
 <description><![CDATA[My Static Org Blog]]></description>
 <link>https://donsale.github.io/</link>
-<lastBuildDate>Sun, 14 Mar 2021 21:48:25 +0100</lastBuildDate>
+<lastBuildDate>Thu, 18 Mar 2021 19:14:07 +0100</lastBuildDate>
 <item>
-  <title><![CDATA[To je to]]></title>
+  <title><![CDATA[Thales' theorem]]></title>
   <description><![CDATA[
 </div>
-<p>
-To je to
-</p>
+<div id="my-interactive"></div>
+<script type="module" src="static/script.js"></script>
 <div class="taglist"></div>]]></description>
-  <link>https://donsale.github.io/2021-03-14-to-je-to.html</link>
-  <pubDate>Sun, 14 Mar 2021 19:50:00 +0100</pubDate>
-</item>
-<item>
-  <title><![CDATA[Test test]]></title>
-  <description><![CDATA[
-</div>
-<p>
-Još jedan test
-</p>
-<div class="taglist"></div>]]></description>
-  <link>https://donsale.github.io/2021-03-14-test-test.html</link>
-  <pubDate>Sun, 14 Mar 2021 19:36:00 +0100</pubDate>
-</item>
-<item>
-  <title><![CDATA[Test]]></title>
-  <description><![CDATA[
-</div>
-<p>
-Test sadržaj
-</p>
-<div class="taglist"></div>]]></description>
-  <link>https://donsale.github.io/2021-03-11-test.html</link>
-  <pubDate>Thu, 11 Mar 2021 12:52:00 +0100</pubDate>
-</item>
-<item>
-  <title><![CDATA[Test post]]></title>
-  <description><![CDATA[
-</div>
-<p>
-Text et cetera
-</p>
-<div class="taglist"></div>]]></description>
-  <link>https://donsale.github.io/2021-03-10-test-post.html</link>
-  <pubDate>Wed, 10 Mar 2021 16:24:00 +0100</pubDate>
+  <link>https://donsale.github.io/2021-03-18-thales's-theorem.html</link>
+  <pubDate>Thu, 18 Mar 2021 16:35:00 +0100</pubDate>
 </item>
 </channel>
 </rss>
